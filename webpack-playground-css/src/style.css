@@ -1,0 +1,14 @@
+/* not sure why but this isn't working */
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/Roboto-Regular.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-size: 40px;
+  font-family: 'Roboto';
+  background: url(./image.jpg);
+}
